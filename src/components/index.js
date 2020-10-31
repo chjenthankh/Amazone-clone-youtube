@@ -1,0 +1,10 @@
+export { default as Header } from "./header";
+export { default as Home } from "./home";
+export { default as Product } from "./product";
+export { default as Checkout } from "./checkout";
+export { default as SubTotal } from "./subtotal";
+export { default as Login } from "./login";
+export { default as CheckoutProduct } from "./checkoutproduct";
+export { default as Payment } from "./payment";
+export { default as Order } from "./order";
+export { default as OrderDetail } from "./orderdetail";
